@@ -1,4 +1,4 @@
-# Super Breakout for Analogue Pocket
+# Dominos for Analogue Pocket
 
 + FPGA implementation by james10952001 of Arcade _Dominos_ (Atari, 1977) for Analogue Pocket.
 + Ported from [MiSTer.](https://github.com/MiSTer-devel/Arcade-Dominos_MiSTer/)
